@@ -23,4 +23,6 @@ const development = {
     },
 }
 
-module.exports = { production, development}
+
+
+export default { production, development };
